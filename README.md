@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí*** 
 
 Soy egresado de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec. Me apasiona trabajar en C#, C++, Python, Javascript, HTML, SQL, etc. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
-* **Me interesa el diseño web, el desarrollo de Android, las Bses de Datos y la ciberseguridad**
+* **Me interesa el diseño web, el desarrollo de Android, las Bases de Datos y la ciberseguridad**
 - 🌱 Actualmente estoy aprendiendo......
   - Ciberseguridad
 - 👯 I’m looking forward to collaborate on open source projects.
