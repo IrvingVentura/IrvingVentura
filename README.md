@@ -72,5 +72,12 @@ Soy egresado de Ingeniería en Sistemas Computacionales en el Tecnológico de Es
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
 </span>
+
+Github Stats:
+
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=IrvingVentura&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/IrvingVentura)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=IrvingVentura&theme=material-palenight)](https://github.com/IrvingVentura)
+</div>
